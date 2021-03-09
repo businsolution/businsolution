@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**pro-laravel/pro-laravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me</h2>
+<p>I am a senior Laravel developer and system architect. I am highly motivated, dedicated to delivering high-quality code, and continuously improving on every project. 
+I pride myself on efficiency, have worked with numerous tools, and have completed a variety of projects over the past 7 years.<br><br>
 
-Here are some ideas to get you started:
+In my free time I've built and maintain repo of my own like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <strong>Laravel / CodeIgniter / PHP </strong><br>
+- <strong>Laravel & VueJS</strong><br>
+- <strong>Laravel & ReactJS</strong><br>
+- <strong>Laravel & Flutter</strong><br></p><br><br>
+
+<a href="https://github.com/pro-laravel?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro-laravel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pro's github stats" />
+</a>
+<a href="https://github.com/pro-laravel/">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-laravel&layout=compact&theme=material-palenight" />
+</a><br><br>
+
+<p>Overall, I have a good understanding of how technologies relate to one another and enjoy solving complex technical problems.</p><br>
+Thanks for visiting!
+
+
