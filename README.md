@@ -18,7 +18,7 @@ In my free time I've built and maintain repo of my own like:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-laravel&layout=compact&theme=material-palenight" />
 </a><br><br><br><br>
 
-<p>Overall, I have a good understanding of how technologies relate to one another and enjoy solving complex technical problems.</p><br>
-Thanks for visiting!
+<p>Overall, I have a good understanding of how technologies relate to one another and enjoy solving complex technical problems.
+Thanks for visiting!</p>
 
 
