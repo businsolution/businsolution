@@ -7,10 +7,10 @@ In my free time I've built and maintain repo of my own like:<br>
 - <strong>Laravel & VueJS</strong><br>
 - <strong>Laravel & ReactJS</strong><br>
 - <strong>Laravel & Flutter</strong></p><br>
-<a href="https://github.com/pro-laravel?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro-laravel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pro's github stats" /></a><a href="https://github.com/pro-laravel/">
+<a href="https://github.com/laravel-coder?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=laravel-coder&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pro's github stats" /></a><a href="https://github.com/Funny Coder/">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-laravel&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laravel-coder&layout=compact&theme=material-palenight" />
 </a><br><br>
 <p>Overall, I have a good understanding of how technologies relate to one another and enjoy solving complex technical problems.
 Thanks for visiting!</p>
