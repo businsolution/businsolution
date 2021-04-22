@@ -15,5 +15,6 @@ In my free time I've built and maintain repo of my own like:<br>
 </a><br><br>
 <p>Overall, I have a good understanding of how technologies relate to one another and enjoy solving complex technical problems.
 Thanks for visiting!</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
