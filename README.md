@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A developer passionate about technology.</h3>
+<h3 align="center">A developer passionate about LALAVEL.</h3>
 
 <p align="center"> ⚡ Fun fact: crazy about Amazon: </p>
 
@@ -34,6 +34,8 @@
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
+    <th align="center">Amazon</th>
+    <th align="center">eBay</th>
   </tr>
   <tr>
     <td align="center">
@@ -42,7 +44,12 @@
     <td align="center">
       <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
     </td>
-    
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/3639281?s=200&v=4" height="60">
+    </td>
   </tr>
 </table>
 
