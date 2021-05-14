@@ -14,9 +14,7 @@
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=laravel-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
-    <img align="center" src="https://github.com/laravel-coder/laravel-coder-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
-  </a>
+
   <a href="https://instagram.com/laravel-coder55">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
@@ -57,12 +55,8 @@
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
-  <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
-  <a href="https://www.learncpp.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.svg" alt="python" width="40" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
-  <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
-  <a href="https://www.ti.com/tool/CCSTUDIO"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Code%20Composer/ccstudio.jpg" alt="codecomposer" width="40" height="40"/>
+   <a href="https://www.ti.com/tool/CCSTUDIO"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Code%20Composer/ccstudio.jpg" alt="codecomposer" width="40" height="40"/>
   <a href="https://developer.android.com/studio/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Android/android.svg" alt="androidstudio" width="40" height="40"/>
   <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
   <a href="https://www.influxdata.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/InfluxDB/influxdata.svg" alt="influxdb" width="40" height="40"/>
