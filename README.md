@@ -9,16 +9,16 @@
 
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laravel-coder&theme=radical&langs_count=6&layout=compact"><img alt="laravel-coder Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laravel-coder&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonninja&theme=radical&langs_count=6&layout=compact"><img alt="amazonninja Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonninja&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=laravel-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=amazonninja&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
 
-  <a href="https://instagram.com/laravel-coder55">
+  <a href="https://instagram.com/">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:laravel-coder55@gmail.com">
+  <a href="mailto:monte4952@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
   <a href="https://stackoverflow.com/users/13554586/growbing-development-inc">
@@ -76,18 +76,18 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=laravel-coder&theme=dracula" alt="laravel-coder" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=amazonninja&theme=dracula" alt="amazonninja" />
 </p>
 
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=laravel-coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amazonninja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 
 <p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=laravel-coder&count_private=true&show_icons=true&theme=radical"><img alt="laravel-coder Activity Graph" src="https://github-readme-stats.vercel.app/api?username=laravel-coder&count_private=true&show_icons=true&theme=radical" /></a>
+<a  href="https://github-readme-stats.vercel.app/api?username=amazonninja&count_private=true&show_icons=true&theme=radical"><img alt="amazonninja Activity Graph" src="https://github-readme-stats.vercel.app/api?username=amazonninja&count_private=true&show_icons=true&theme=radical" /></a>
   
 </p>
 
