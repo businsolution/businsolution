@@ -100,7 +100,7 @@
 </p>
 
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=businsolution&column=7&theme=onedark"/>
-</p>
+      <p align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=businsolution&column=7&theme=onedark"/>
+      </p>
 
