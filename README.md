@@ -1,11 +1,11 @@
 <h1 align="center">
-  Welcome to my profile!
+  Welcome to BusinessSolution!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <h3 align="center">A developer passionate about LALAVEL.</h3>
 
-<p align="center"> ⚡ Fun fact: crazy about Amazon: </p>
+<p align="center"> ⚡ Fun fact: success business: </p>
 
 
 <p align="center">
