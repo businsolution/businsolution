@@ -30,9 +30,11 @@
 
 <table>
   <tr>
-    <th align="center">Laravel</th>
-    <th align="center">PHP</th>
     <th align="center">Amazon</th>
+    <th align="center">Salesforce</th>
+    <th align="center">NetSuite</th>
+    <th align="center">Google</th>
+    <th align="center">BingAds</th>
     <th align="center">eBay</th>
   </tr>
   <tr>
@@ -43,6 +45,12 @@
       <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
     </td>
     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
+    </td>
+     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
+    </td>
+     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
     </td>
     <td align="center">
