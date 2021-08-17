@@ -92,12 +92,7 @@
 </p>
 
 
-<!--
-
-<p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/keikomori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+    <img src="https://github-profile-trophy.vercel.app/?username=amznsolution&column=7&theme=onedark"/>
 </p>
-
- -->
 
