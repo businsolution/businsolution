@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60">
+      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/453694?s=200&v=4" height="60">
