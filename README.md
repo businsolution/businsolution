@@ -26,16 +26,16 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60">
     </td>
     <td align="center">
-      <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
+      <img src="https://avatars.githubusercontent.com/u/453694?s=200&v=4" height="60">
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
+      <img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" height="60">
     </td>
      <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
+      <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" height="60">
     </td>
      <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/8594673?s=200&v=4" height="60">
+      <img src="https://avatars.githubusercontent.com/u/8107929?s=200&v=4" height="60">
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/3639281?s=200&v=4" height="60">
