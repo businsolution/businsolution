@@ -1,17 +1,53 @@
 <h1 align="center">
-  Welcome to BusinessSolution!
+  Welcome to BusinSolution!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+
 </h1>
 
-<h3 align="center">A developer passionate about LALAVEL.</h3>
+<h3 align="center">A developer passionate about Back End.🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=businsolution&label=Profile%20views&color=0e75b6&style=flat" alt="businsolution" /></h3>
+ <p align="center">
+  
+ <a href="https://github.com/businsolution/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=businsolution&theme=radical&layout=compact" />
+</a>
+</p>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=businsolution&theme=radical&langs_count=6&layout=compact"><img alt="businsolution Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=businsolution&theme=radical&langs_count=6&layout=compact" /></a>
- </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=businsolution&label=Profile%20views&color=0e75b6&style=flat" alt="businsolution" /></h2>
+ <p align="center">
+ 
+ <a href="https://github.com/businsolution/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=businsolution&langs_count=8&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/businsolution/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=businsolution&langs_count=8&theme=radical&layout=compact" />
+</a>
+</p>
+    
+#### ABOUT ME
+
+- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
+- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
+- 👨‍💻 Some of my public projects are available **[My repositories](https://github.com/businsolution?tab=repositories&q=&type=source&language=&sort=)**
+- 😃 Have a Project in your Mind?
+- ✨ I will implement your great ideas to be live perfectly.
+- 📫 Contact me **[Join on Skype](https://join.skype.com/invite/gPQ5iISWZXW4)** and **<a href="mailto:support@businsolution.com	">Send Mail</a>** if you need my help.
+
+#### MY SKILLS
+    ✔ PHP/Laravel/CodeIgniter/Symfony
+    ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
+    ✔ Flutter/IONIC/React Native/Xamarin
+    ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS
+    ✔ MongoDB, MySQL, MSSQL, PostgreSQL
+    ✔ Template, Theme and Script customization
+    ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV
+    ✔ WordPress, Magento, Drupal, Shopify
+    ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
+    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency  
 
 ### Business Solution
-
+<p align='center'>
+<a href="https://github.com/businsolution/">
 <table>
   <tr>
     <th align="center">Amazon</th>
@@ -42,7 +78,8 @@
     </td>
   </tr>
 </table>
-
+  </a>
+</p>
 <h2>👩‍💻 Skills</h2>
 
 <p align="center">
@@ -63,28 +100,19 @@
   <a href="https://grafana.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
-    
-    
+  
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=businsolution&theme=dracula" alt="businsolution" />
+  
 </p>
-
-<h2>📊 Stats</h2>
-
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=businsolution&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
-
-
 <p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=businsolution&count_private=true&show_icons=true&theme=radical"><img alt="amazonninja Activity Graph" src="https://github-readme-stats.vercel.app/api?username=businsolution&count_private=true&show_icons=true&theme=radical" /></a>
-  
-</p>
-
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=businsolution&column=7&theme=onedark"/>
-</p>
+<a align = "center" href="https://github.com/businsolution/">
+  <img src="https://github-profile-trophy.vercel.app/?username=businsolution&column=7&theme=onedark"/>
+</a>
+    </p>
+    
 
