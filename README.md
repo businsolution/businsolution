@@ -10,20 +10,7 @@
  </p>
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=businsolution&label=Profile%20views&color=0e75b6&style=flat" alt="businsolution" /></h2>
 
-<p align="center">
-
-  <a href="https://instagram.com/">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
-  </a>
-  <a href="mailto:monte4952@gmail.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
-  <a href="https://stackoverflow.com/">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
-  </a>
-</p>
-
-### Back-end development
+### Business Solution
 
 <table>
   <tr>
