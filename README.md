@@ -25,24 +25,21 @@
     
 #### ABOUT ME
 
-- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 👨‍💻 Some of my public projects are available **[My repositories](https://github.com/businsolution?tab=repositories&q=&type=source&language=&sort=)**
-- 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/gPQ5iISWZXW4)** and **<a href="mailto:support@businsolution.com	">Send Mail</a>** if you need my help.
 
 #### MY SKILLS
     ✔ PHP/Laravel/CodeIgniter/Symfony
-    ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
-    ✔ Flutter/IONIC/React Native/Xamarin
+    ✔ Python/Django/Flask
+    ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Azure, Git, Docker, Heroku
     ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS
     ✔ MongoDB, MySQL, MSSQL, PostgreSQL
-    ✔ Template, Theme and Script customization
-    ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV
-    ✔ WordPress, Magento, Drupal, Shopify
-    ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
+    ✔ Payment, Facebook, Instagram, Google, and so on API integration
+    ✔ WordPress, Woocommerce, Shopify
     ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency  
 
 ### Business Solution
