@@ -28,7 +28,6 @@
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 👨‍💻 Some of my public projects are available **[My repositories](https://github.com/businsolution?tab=repositories&q=&type=source&language=&sort=)**
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/gPQ5iISWZXW4)** and **<a href="mailto:support@businsolution.com	">Send Mail</a>** if you need my help.
 
