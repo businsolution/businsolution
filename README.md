@@ -33,13 +33,13 @@
 
 #### MY SKILLS
     ✔ PHP/Laravel/CodeIgniter/Symfony
-    ✔ Python/Django/Flask
     ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Azure, Git, Docker, Heroku
+    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C  
+    ✔ Python/Django/Flask
     ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS
     ✔ MongoDB, MySQL, MSSQL, PostgreSQL
-    ✔ Payment, Facebook, Instagram, Google, and so on API integration
+    ✔ Payment, Facebook, Instagram, Google, and Restful API integration
     ✔ WordPress, Woocommerce, Shopify
-    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency  
 
 ### Business Solution
 <p align='center'>
