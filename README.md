@@ -16,7 +16,7 @@
  <p align="center">
  
  <a href="https://github.com/businsolution/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=businsolution&langs_count=8&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busin5solution&langs_count=8&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/businsolution/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=businsolution&langs_count=8&theme=radical&layout=compact" />
