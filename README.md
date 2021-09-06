@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - **Email**: [support@businsolution.com](mailto:me@octoper.me)
   - **Website**: [businsolution.com](https://businsolution.com)
-  - **Skype**: [businsolution.com](https://businsolution.com)
