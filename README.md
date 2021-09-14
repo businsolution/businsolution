@@ -1,10 +1,10 @@
 # Hey there 👋
 
-- **Amazon**: MWS/SellingParnter/PPC API Integration to support Dropship, Resale, FBA, MFC, Various idea with Amazon. 
-- **CRM**: Salesforce buiding, scripting, restful api, Zoho building, zoho one, integration business portal, restful Api.
+- **Amazon**: MWS/SellingParnter/PPC API Integration to support Seller/Vendor Tool, Dropship, ReSale, FBA, MCF. 
+- **CRM**: Salesforce buiding, Apex scripting, LWC, Zoho, Integration Business portal, Restful Api.
 - **ERP**: Netsuite scripting, suitecloud, integration Salesforce
-- **Ads**: Support Google/Bing Ads with rest api and various idea. 
-- **Web-Devlop**: Building various business like booking, Bet, LMS.
+- **Ads**: Google/Bing Ads conversion, Rest Api. 
+- **Web-Devlop**: Building various business like booking, Betting, LMS.
 
 # About Me
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
