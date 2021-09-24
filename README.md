@@ -12,7 +12,7 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 <p align="center">
-<a href="https://github.com/businsolution/">
+<a href="https://wakatime.com/@businsolution">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=businsolution&langs_count=6&theme=radical&layout=compact" />
 </a>
 </p>
