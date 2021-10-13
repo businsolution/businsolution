@@ -1,6 +1,6 @@
 # Hey there 👋 <img width="175px" src="https://komarev.com/ghpvc/?username=businsolution&color=DE002D">
 
-- **Amazon**: MWS/SellingParnter/PPC API Integration to support Seller/Vendor Tool, Dropship, ReSale, FBA, MCF. 
+- **Amazon**: MWS/SellingParnter/PPC API Integration to support Seller/Vendor Tool, Dropship, ReSale, FBA. 
 - **CRM**: Salesforce, Apex , LWC, Zoho, Integration Business portal, Restful Api.
 - **ERP**: Netsuite scripting, suitecloud, integration Salesforce
 - **Ads**: Google/Bing Ads conversion, Rest Api. 
